@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "302535024028",
+    "project_id": "travelapp-1583e",
+    "storage_bucket": "travelapp-1583e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302535024028:android:e87ddeaef6ea05b5513c59",
+        "android_client_info": {
+          "package_name": "com.empedocles.travel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBaTZt4qUv_CgvEG4mRNGr1dZw0YSIMN0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
